@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#app li {
+    display: flex;
+    list-style: none;
+    margin-left: .625rem;
+    justify-content: center;
+}
